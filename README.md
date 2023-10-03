@@ -1,6 +1,7 @@
 # WorstZip, the most reliable and efficient file compression program
 
 * DISCLAIMER: please don't ever use this ever. I am not responsible for whatever happens to your computer as a result of this program
+* This software is liscensed under MIT Liscense, see LICENSE in this repo
 
 ## Features
 
